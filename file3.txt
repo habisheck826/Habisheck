@@ -1,0 +1,2 @@
+This is the content of file3.
+Final file in the list.

@@ -1,0 +1,2 @@
+This is the content of file2.
+Here we write another line.
